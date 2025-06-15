@@ -6,12 +6,12 @@ This is a PDF Generator developed by Marwane Elhosni using python language and f
 
 ## Installation
 
+To deploy this project:
 
-To deploy this project run in your terminal:
+--step 1: drop the files into your project folder
 
-Step 1 : drag and drop this two files in your projet
-
-Step 2: run this installation in your terminal projet:
+--step 2: 
+run this Installation in your project terminal :
 ```bash
   pip install fpdf2
 ```
@@ -32,5 +32,4 @@ __use Pycharm compiler for better result__
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-![Logo]([https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png])
-
+![Logo](https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png)
