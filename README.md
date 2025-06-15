@@ -32,5 +32,5 @@ __use Pycharm compiler for better result__
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-![Logo](https://legacy.python.org/images/python-logo.gif)
+![Logo](https://legacy.python.org/images/python-logo.gif](https://logos-world.net/wp-content/uploads/2021/10/Python-Logo-700x394.png)
 
