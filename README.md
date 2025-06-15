@@ -6,11 +6,17 @@ This is a PDF Generator developed by Marwane Elhosni using python language and f
 
 ## Installation
 
-To deploy this project run in your terminal, __use Pycharm compiler for better result__
 
+To deploy this project run in your terminal:
+
+Step 1 : drag and drop this two files in your projet
+
+Step 2: run this installation in your terminal projet:
 ```bash
   pip install fpdf2
 ```
+
+__use Pycharm compiler for better result__
 
 
 ## Authors
